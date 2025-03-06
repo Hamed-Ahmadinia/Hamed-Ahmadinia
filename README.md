@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Hamed Ahmadinia!
 
 I'm an interdisciplinary researcher and data analyst passionate about leveraging big data analytics, advanced statistical methods, and visualization techniques to explore important social phenomena. My expertise bridges information studies, migration research, and data-driven analysis of public attitudes and behaviors.
-
+---
 ![Typing Animation](https://github.com/Hamed-Ahmadinia/Hamed-Ahmadinia/blob/main/Drahmadinia.gif?raw=true)
 ---
 
