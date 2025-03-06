@@ -1,10 +1,8 @@
 # 👋 Hi there, I'm Hamed Ahmadinia!
 
-I'm an interdisciplinary researcher, educator and data analyst passionate about leveraging big data analytics, advanced statistical methods, and visualization techniques to explore important social phenomena. My expertise bridges information studies, migration research, and data-driven analysis of public attitudes and behaviors.
+I'm an interdisciplinary researcher, educator and data analyst passionate about leveraging big data analytics, advanced statistical methods, and visualization techniques to explore important social phenomena. My expertise bridges information science, migration research, and data-driven analysis of public attitudes and behaviors.
 ---
-
 <img src="https://github.com/user-attachments/assets/b7111214-30ff-43a8-9bdc-cd98147480bf" width="1000px" height="150px">
-
 ---
 
 ## 🚀 Skills & Technologies
@@ -56,7 +54,7 @@ Rigorous analysis using multilevel statistical modeling to examine values, trust
 ---
 
 ## 🎓 Ongoing Learning
-- International Professional Teacher Education – Häme University of Applied Sciences (HAMK)
+- International Professional Teacher Education – Häme University of Applied Sciences (HAMK), Hämeenlinna, Finalnd.
 
 ---
 
