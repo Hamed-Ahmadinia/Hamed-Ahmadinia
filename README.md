@@ -28,20 +28,23 @@ I'm an interdisciplinary researcher, educator and data analyst passionate about 
 
 ## 🔍 Projects I'm Proud Of
 
-### 📌 [Big Data Specialization](https://github.com/Hamed-Ahmadinia/Bigdata-Specialization_2021-2022)
-Extensive analytical projects demonstrating proficiency in Python for big data processing and visualization.
+### 📌 [Data Analytics Python Course](https://github.com/Hamed-Ahmadinia/data-analytics-python-course) 2025
+A specialized course I teach at Metropolia University of Applied Sciences, focusing on Python-based data analytics, including data preprocessing, exploratory data analysis, and machine learning techniques.
 
-### 📌 [Systematic Reviews on Immigrant Health](https://github.com/Hamed-Ahmadinia/Systematic-Reviews-Immigrant-Health_2020_2023)
-Comprehensive systematic literature reviews exploring the intersection of immigration and health, employing qualitative and quantitative research methodologies.
+### 📌 [European Values & Attitudes Research (ESS)](https://github.com/Hamed-Ahmadinia/ESS_Human_Values_Research) 2024
+Rigorous analysis using multilevel statistical modeling to examine values, trust, media engagement, and immigration attitudes among European managers, based on extensive ESS data.
 
-### 📌 [IoT Systems Practicals](https://github.com/Hamed-Ahmadinia/IoT-Systems-Practicals-2023)
-Applied practical projects demonstrating IoT applications and data analytics using Python.
-
-### 📌 [Applied Data Science MiniProjects](https://github.com/Hamed-Ahmadinia/Applied-Data-Science-MiniProjects)
+### 📌 [Applied Data Science MiniProjects](https://github.com/Hamed-Ahmadinia/Applied-Data-Science-MiniProjects) 2023
 Hands-on mini-projects focused on data science techniques, exploratory analysis, and visualizations.
 
-### 📌 [European Values & Attitudes Research (ESS)](https://github.com/Hamed-Ahmadinia/ESS_Human_Values_Research)
-Rigorous analysis using multilevel statistical modeling to examine values, trust, media engagement, and immigration attitudes among European managers, based on extensive ESS data.
+### 📌 [Applied Data Science MiniProjects](https://github.com/Hamed-Ahmadinia/Applied-Data-Science-MiniProjects) 2023
+Hands-on mini-projects focused on data science techniques, exploratory analysis, and visualizations.
+
+### 📌 [Systematic Reviews on Immigrant Health](https://github.com/Hamed-Ahmadinia/Systematic-Reviews-Immigrant-Health_2020_2023) 2020 - 2023
+Comprehensive systematic literature reviews exploring the intersection of immigration and health, employing qualitative and quantitative research methodologies.
+
+### 📌 [Big Data Specialization](https://github.com/Hamed-Ahmadinia/Bigdata-Specialization_2021-2022) 2021 - 2022
+Extensive analytical projects demonstrating proficiency in Python for big data processing and visualization.
 
 ---
 
