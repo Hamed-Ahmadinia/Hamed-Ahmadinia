@@ -75,5 +75,6 @@ Comprehensive systematic literature reviews exploring the intersection of immigr
 - 🔗 [LinkedIn](https://www.linkedin.com/in/hamed-ahmadinia/)
 
 ---
+![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Hamed-Ahmadinia&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=Profile+Views&edge_flat=false)
 
 🚀 **Let's collaborate to uncover meaningful insights from data and research!**
