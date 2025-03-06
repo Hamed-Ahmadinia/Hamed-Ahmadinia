@@ -46,10 +46,10 @@ Rigorous analysis using multilevel statistical modeling to examine values, trust
 
 ## 🎓 Education
 
-- **Ph.D. in Information Studies** – Åbo Akademi University, Finland (2024)
-- **MSc Information & Knowledge Management** – Åbo Akademi University
-- **MSc Business Administration (Finance)** – Islamic Azad University
-- **BSc Accounting (Taxation)** – Kharazmi University
+- **Ph.D. in Information Studies** – Åbo Akademi University, Turku, Finalnd.
+- **MSc Information & Knowledge Management** – Åbo Akademi University, Turku, Finalnd.
+- **MSc Business Administration (Finance)** – Azad University, Tehran, Iran.
+- **BSc Accounting (Taxation)** – Kharazmi University, Tehran, Iran.
 
 ---
 
