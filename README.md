@@ -69,7 +69,7 @@ Rigorous analysis using multilevel statistical modeling to examine values, trust
 ## 📫 Connect with Me
 - 📧 [hamed.ahmadinia@aol.com](mailto:hamed.ahmadinia@aol.com)
 - 🌐 [Personal Website](https://www.ahmadinia.fi)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/hamed-ahmadinia-93541052/)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/hamed-ahmadinia/))
 
 ---
 
