@@ -63,8 +63,6 @@ Rigorous analysis using multilevel statistical modeling to examine values, trust
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hamed-Ahmadinia&layout=compact&theme=radical)
 
-![GitHub Contribution Snake](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
-
 ---
 
 ## 📫 Connect with Me
