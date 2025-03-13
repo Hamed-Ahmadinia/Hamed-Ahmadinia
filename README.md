@@ -34,7 +34,7 @@ A specialized course I teach at Metropolia University of Applied Sciences, focus
 ### 📌 [European Values & Attitudes Research (ESS)](https://github.com/Hamed-Ahmadinia/ESS_Human_Values_Research) 2024
 Rigorous analysis using multilevel statistical modeling to examine values, trust, media engagement, and immigration attitudes among European managers, based on extensive ESS data.
 
-### 📌 [IoT Systems Practicals](https://github.com/Hamed-Ahmadinia/IoT-Systems-Practicals-2023). 2023
+### 📌 [IoT-Based Systems Practice](https://github.com/Hamed-Ahmadinia/IoT-Systems-Practicals-2023). 2023
 Portfolio of key assignments for IoT architecture, network models, data processing, and decision-making strategies in IoT systems.
 
 ### 📌 [Applied Data Science MiniProjects](https://github.com/Hamed-Ahmadinia/Applied-Data-Science-MiniProjects) 2023
