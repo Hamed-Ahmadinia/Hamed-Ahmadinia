@@ -51,7 +51,7 @@ I'm an interdisciplinary researcher, educator, and data analyst passionate about
 ### 📌 [Data Analytics Python Course](https://github.com/Hamed-Ahmadinia/data-analytics-python-course) 2025  [![wakatime](https://wakatime.com/badge/github/Hamed-Ahmadinia/data-analytics-python-course.svg)](https://wakatime.com/badge/github/Hamed-Ahmadinia/data-analytics-python-course)  
 A specialized course I teach at Metropolia University of Applied Sciences, focusing on Python-based data analytics, including data preprocessing, exploratory data analysis, and machine learning techniques.
 
-### 📌 [European Values & Attitudes Research (ESS)](https://github.com/Hamed-Ahmadinia/ESS_Human_Values_Research) 2024  
+### 📌 [European Values & Attitudes Research (ESS)](https://github.com/Hamed-Ahmadinia/ESS_Human_Values_Research) 2024  [![wakatime](https://wakatime.com/badge/github/Hamed-Ahmadinia/ESS_Human_Values_Research.svg)](https://wakatime.com/badge/github/Hamed-Ahmadinia/ESS_Human_Values_Research)
 Rigorous analysis using multilevel statistical modeling to examine values, trust, media engagement, and immigration attitudes among European managers, based on extensive ESS data.
 
 ### 📌 [IoT-Based Systems Practice](https://github.com/Hamed-Ahmadinia/IoT-Systems-Practicals-2023) 2023  
