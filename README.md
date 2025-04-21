@@ -55,7 +55,7 @@ A specialized course I teach at Metropolia University of Applied Sciences, focus
 Rigorous analysis using multilevel statistical modeling to examine values, trust, media engagement, and immigration attitudes among European managers, based on extensive ESS data.
 
 ### 📌 [IoT-Based Systems Practice](https://github.com/Hamed-Ahmadinia/IoT-Systems-Practicals-2023) 2023  
-Portfolio of key assignments for IoT architecture, network models, data processing, and decision-making strategies in IoT systems.
+Portfolio of key assignments for IoT architecture, network models, data processing, and decision-making strategies in IoT systems. [![DOI](https://zenodo.org/badge/850335990.svg)](https://doi.org/10.5281/zenodo.15254885)
 
 ### 📌 [Applied Data Science MiniProjects](https://github.com/Hamed-Ahmadinia/Applied-Data-Science-MiniProjects) 2023 [![DOI](https://zenodo.org/badge/869425804.svg)](https://doi.org/10.5281/zenodo.15254860)
 Hands-on mini-projects focused on data science techniques, exploratory analysis, and visualizations.
