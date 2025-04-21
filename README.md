@@ -57,7 +57,7 @@ Rigorous analysis using multilevel statistical modeling to examine values, trust
 ### 📌 [IoT-Based Systems Practice](https://github.com/Hamed-Ahmadinia/IoT-Systems-Practicals-2023) 2023  
 Portfolio of key assignments for IoT architecture, network models, data processing, and decision-making strategies in IoT systems.
 
-### 📌 [Applied Data Science MiniProjects](https://github.com/Hamed-Ahmadinia/Applied-Data-Science-MiniProjects) 2023  
+### 📌 [Applied Data Science MiniProjects](https://github.com/Hamed-Ahmadinia/Applied-Data-Science-MiniProjects) 2023 [![DOI](https://zenodo.org/badge/869425804.svg)](https://doi.org/10.5281/zenodo.15254860)
 Hands-on mini-projects focused on data science techniques, exploratory analysis, and visualizations.
 
 ### 📌 [Big Data Specialization](https://github.com/Hamed-Ahmadinia/Bigdata-Specialization_2021-2022) 2021–2022 [![DOI](https://zenodo.org/badge/425120952.svg)](https://doi.org/10.5281/zenodo.15254849)
