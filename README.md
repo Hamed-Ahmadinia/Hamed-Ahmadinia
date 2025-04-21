@@ -48,7 +48,7 @@ I'm an interdisciplinary researcher, educator, and data analyst passionate about
 
 ## 🔍 Projects I'm Proud Of
 
-### 📌 [Data Analytics Python Course](https://github.com/Hamed-Ahmadinia/data-analytics-python-course) 2025  [![wakatime](https://wakatime.com/badge/github/Hamed-Ahmadinia/data-analytics-python-course.svg)](https://wakatime.com/badge/github/Hamed-Ahmadinia/data-analytics-python-course)
+### 📌 [Data Analytics Python Course](https://github.com/Hamed-Ahmadinia/data-analytics-python-course) 2025  [![wakatime](https://wakatime.com/badge/github/Hamed-Ahmadinia/data-analytics-python-course.svg)](https://wakatime.com/badge/github/Hamed-Ahmadinia/data-analytics-python-course) [![DOI](https://zenodo.org/badge/944119282.svg)](https://doi.org/10.5281/zenodo.15254795)
 A specialized course I teach at Metropolia University of Applied Sciences, focusing on Python-based data analytics, including data preprocessing, exploratory data analysis, and machine learning techniques.
 
 ### 📌 [European Values & Attitudes Research (ESS)](https://github.com/Hamed-Ahmadinia/ESS_Human_Values_Research) 2024
@@ -63,7 +63,7 @@ Hands-on mini-projects focused on data science techniques, exploratory analysis,
 ### 📌 [Big Data Specialization](https://github.com/Hamed-Ahmadinia/Bigdata-Specialization_2021-2022) 2021–2022  
 Extensive analytical projects demonstrating proficiency in Python for big data processing and visualization.
 
-### 📌 [Systematic Reviews on Immigrant Health](https://github.com/Hamed-Ahmadinia/Systematic-Reviews-Immigrant-Health_2020_2023) 2020  
+### 📌 [Systematic Reviews on Immigrant Health](https://github.com/Hamed-Ahmadinia/Systematic-Reviews-Immigrant-Health_2020_2023) 2020  [![DOI](https://zenodo.org/badge/758016727.svg)](https://doi.org/10.5281/zenodo.15254828)
 Comprehensive systematic literature reviews exploring the intersection of immigration and health, employing qualitative and quantitative research methodologies.
 
 ---
