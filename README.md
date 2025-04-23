@@ -51,6 +51,9 @@ I'm an interdisciplinary researcher, educator, and data analyst passionate about
 ### 📌 [Data Analytics Python Course](https://github.com/Hamed-Ahmadinia/data-analytics-python-course) 2025  [![wakatime](https://wakatime.com/badge/github/Hamed-Ahmadinia/data-analytics-python-course.svg)](https://wakatime.com/badge/github/Hamed-Ahmadinia/data-analytics-python-course) [![DOI](https://zenodo.org/badge/944119282.svg)](https://doi.org/10.5281/zenodo.15254795)
 A specialized course I teach at Metropolia University of Applied Sciences, focusing on Python-based data analytics, including data preprocessing, exploratory data analysis, and machine learning techniques.
 
+### 📌 [Presentation Timer Controller](https://github.com/Hamed-Ahmadinia/presentation-timer-controller) 2025
+A browser-based, interactive tool for managing live presentations. Built with HTML, CSS, and JavaScript, it allows instructors, researchers, or event organizers to track presentation order, control countdowns, and manage speaker sessions seamlessly. Fully customizable via in-app settings — no installation or backend required.
+
 ### 📌 [European Values & Attitudes Research (ESS)](https://github.com/Hamed-Ahmadinia/ESS_Human_Values_Research) 2024 (Private)
 Rigorous analysis using multilevel statistical modeling to examine values, trust, media engagement, and immigration attitudes among European managers, based on extensive ESS data.
 
