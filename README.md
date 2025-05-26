@@ -78,12 +78,6 @@ Comprehensive systematic literature reviews exploring the intersection of immigr
 
 ---
 
-## 📘 Ongoing Learning
-
-- **International Professional Teacher Education (IPTE)** – Häme University of Applied Sciences (HAMK), Hämeenlinna, Finland (2024–2025)
-
----
-
 ## 📊 GitHub & WakaTime Stats
 
 <table>
