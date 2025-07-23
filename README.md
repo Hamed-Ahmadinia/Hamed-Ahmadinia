@@ -46,6 +46,9 @@ I'm an interdisciplinary researcher, educator, and data analyst passionate about
 
 ## 🔍 Projects I'm Proud Of
 
+### 📌 [Public responds to scientific mis- and disinformation on YouTube](https://github.com/Hamed-Ahmadinia/ESS_Human_Values_Research) 2025 (Private) [![wakatime](https://wakatime.com/badge/github/Hamed-Ahmadinia/Misinfo_Reactions_YT.svg)](https://wakatime.com/badge/github/Hamed-Ahmadinia/Misinfo_Reactions_YT)
+Examines how the public responds to scientific mis- and disinformation on YouTube through comment data from retracted study-associated videos. Conducts text mining and thematic analysis to extract recurring words, emotions, and themes in discussions related to untrustworthy science, based on extensive Altmetric data.
+
 ### 📌 [Data Analytics Python Course](https://github.com/Hamed-Ahmadinia/data-analytics-python-course) 2025  [![wakatime](https://wakatime.com/badge/github/Hamed-Ahmadinia/data-analytics-python-course.svg)](https://wakatime.com/badge/github/Hamed-Ahmadinia/data-analytics-python-course) [![DOI](https://zenodo.org/badge/944119282.svg)](https://doi.org/10.5281/zenodo.15254795)
 A specialized course I teach at Metropolia University of Applied Sciences, focusing on Python-based data analytics, including data preprocessing, exploratory data analysis, and machine learning techniques.
 
