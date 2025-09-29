@@ -78,7 +78,7 @@ Comprehensive systematic literature reviews exploring the intersection of immigr
 ## 🎓 Education
 
 - **Ph.D. Information Studies** – Åbo Akademi University, Turku, Finland  
-- **MSc Business and Economics** – Åbo Akademi University, Turku, Finland  
+- **MSc Business and Economics (Information & Knowledge Management) ** – Åbo Akademi University, Turku, Finland  
 - **MSc Business Administration (Finance)** – Azad University, Tehran, Iran  
 - **BSc Accounting (Taxation)** – Kharazmi University, Tehran, Iran  
 
