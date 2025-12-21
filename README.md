@@ -67,7 +67,7 @@ Portfolio of key assignments for IoT architecture, network models, data processi
 ### 📌 [Applied Data Science MiniProjects](https://github.com/Hamed-Ahmadinia/Applied-Data-Science-MiniProjects) 2023 [![DOI](https://zenodo.org/badge/869425804.svg)](https://doi.org/10.5281/zenodo.15254860)
 Hands-on mini-projects focused on data science techniques, exploratory analysis, and visualizations.
 
-### 📌 [Big Data Specialization](https://github.com/Hamed-Ahmadinia/Bigdata-Specialization) 2025–2026 [![DOI](https://zenodo.org/badge/425120952.svg)](https://doi.org/10.5281/zenodo.15254849)
+### 📌 [Big Data Specialization](https://github.com/Hamed-Ahmadinia/Bigdata-Specialization) [![DOI](https://zenodo.org/badge/425120952.svg)](https://doi.org/10.5281/zenodo.15254849)
 Extensive analytical projects demonstrating proficiency in Python for big data processing and visualization.
 
 ### 📌 [Systematic Reviews on Immigrant Health](https://github.com/Hamed-Ahmadinia/Systematic-Reviews-Immigrant-Health_2020_2023) 2020  [![DOI](https://zenodo.org/badge/758016727.svg)](https://doi.org/10.5281/zenodo.15254828)
