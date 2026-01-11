@@ -80,26 +80,8 @@ Comprehensive systematic literature reviews exploring the intersection of immigr
 - **Ph.D. Information Studies** – Åbo Akademi University, Turku, Finland  
 - **MSc Business and Economics (Information & Knowledge Management)** – Åbo Akademi University, Turku, Finland  
 - **MSc Business Administration (Finance)** – Azad University, Tehran, Iran  
-- **BSc Accounting (Taxation)** – Kharazmi University, Tehran, Iran  
-
----
-
-## 📊 GitHub & WakaTime Stats
-
-<table>
-  <tr>
-    <td>
-      <img src="https://wakatime.com/share/@eff3b53b-fa83-46cd-916a-0ee2875d31b6/2e1584da-77a0-41af-96db-d145a22d6617.svg" width="500px" alt="Wakatime Stats"/>
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Hamed-Ahmadinia&show_icons=true&theme=radical" width="500px" alt="GitHub Stats"/>
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamed-Ahmadinia&layout=compact&theme=radical" width="500px" alt="Top Languages"/>
-    </td>
-  </tr>
-</table>
-
+- **BSc Accounting (Taxation)** – Kharazmi University, Tehran, Iran
+  
 ---
 
 ## 📫 Connect with Me
