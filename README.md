@@ -52,10 +52,10 @@ Examines how the public responds to scientific mis- and disinformation on YouTub
 ### 📌 [News Narratives Around Retracted Mental-Health Research](https://github.com/Hamed-Ahmadinia/Mental-Health-News-Retractions) 2025 (Private) 
 Explores how online news outlets present—and how readers respond to—retracted scientific studies, based on extensive Altmetric data.
 
-### 📌 [Data Analytics Python Course](https://github.com/Hamed-Ahmadinia/data-analytics-python-course) 2025 [![DOI](https://zenodo.org/badge/944119282.svg)](https://doi.org/10.5281/zenodo.15254795)
+### 📌 [Data Analytics Python Course](https://github.com/Hamed-Ahmadinia/data-analytics-python-course) 2025 
 A specialized course I teach at Metropolia University of Applied Sciences, focusing on Python-based data analytics, including data preprocessing, exploratory data analysis, and machine learning techniques.
 
-### 📌 [Presentation Timer Controller](https://github.com/Hamed-Ahmadinia/presentation-timer-controller) 2025 [![DOI](https://zenodo.org/badge/944119282.svg)](https://doi.org/10.5281/zenodo.15270560)
+### 📌 [Presentation Timer Controller](https://github.com/Hamed-Ahmadinia/presentation-timer-controller) 2025 
 A browser-based, interactive tool for managing live presentations. Built with HTML, CSS, and JavaScript, it allows instructors, researchers, or event organizers to track presentation order, control countdowns, and manage speaker sessions seamlessly. Fully customizable via in-app settings — no installation or backend required.
 
 ### 📌 [European Values & Attitudes Research (ESS)](https://github.com/Hamed-Ahmadinia/ESS_Human_Values_Research) 2024 (Private) 
@@ -84,7 +84,8 @@ Comprehensive systematic literature reviews exploring the intersection of immigr
   
 ---
 
-## 📈 Code Time since March 1 2025 ( started counting) [![wakatime](https://wakatime.com/badge/user/eff3b53b-fa83-46cd-916a-0ee2875d31b6.svg)](https://wakatime.com/@eff3b53b-fa83-46cd-916a-0ee2875d31b6)
+## 📈 Code Time
+- **since March 1 2025** – (started counting) [![wakatime](https://wakatime.com/badge/user/eff3b53b-fa83-46cd-916a-0ee2875d31b6.svg)](https://wakatime.com/@eff3b53b-fa83-46cd-916a-0ee2875d31b6)
 
 ---
 
