@@ -85,7 +85,7 @@ Comprehensive systematic literature reviews exploring the intersection of immigr
 ---
 
 ## 📈 Code Time
-- **since March 1 2025** – (started counting) [![wakatime](https://wakatime.com/badge/user/eff3b53b-fa83-46cd-916a-0ee2875d31b6.svg)](https://wakatime.com/@eff3b53b-fa83-46cd-916a-0ee2875d31b6)
+- **Since March 1 2025** – (started counting) [![wakatime](https://wakatime.com/badge/user/eff3b53b-fa83-46cd-916a-0ee2875d31b6.svg)](https://wakatime.com/@eff3b53b-fa83-46cd-916a-0ee2875d31b6)
 
 ---
 
