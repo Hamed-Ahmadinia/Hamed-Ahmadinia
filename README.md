@@ -46,31 +46,31 @@ I'm an interdisciplinary researcher, educator, and data analyst passionate about
 
 ## 🔍 Projects I'm Proud Of
 
-### 📌 [Public responds to scientific mis- and disinformation on YouTube](https://github.com/Hamed-Ahmadinia/Misinfo_Reactions_YT) 2025 (Private) [![wakatime](https://wakatime.com/badge/github/Hamed-Ahmadinia/Misinfo_Reactions_YT.svg)](https://wakatime.com/badge/github/Hamed-Ahmadinia/Misinfo_Reactions_YT)
+### 📌 [Public responds to scientific mis- and disinformation on YouTube](https://github.com/Hamed-Ahmadinia/Misinfo_Reactions_YT) 2025 (Private) 
 Examines how the public responds to scientific mis- and disinformation on YouTube through comment data from retracted study-associated videos. Conducts text mining and thematic analysis to extract recurring words, emotions, and themes in discussions related to untrustworthy science, based on extensive Altmetric data.
 
-### 📌 [News Narratives Around Retracted Mental-Health Research](https://github.com/Hamed-Ahmadinia/Mental-Health-News-Retractions) 2025 (Private) [![wakatime](https://wakatime.com/badge/github/Hamed-Ahmadinia/Mental-Health-News-Retractions.svg)](https://wakatime.com/badge/github/Hamed-Ahmadinia/Mental-Health-News-Retractions)
+### 📌 [News Narratives Around Retracted Mental-Health Research](https://github.com/Hamed-Ahmadinia/Mental-Health-News-Retractions) 2025 (Private) 
 Explores how online news outlets present—and how readers respond to—retracted scientific studies, based on extensive Altmetric data.
 
-### 📌 [Data Analytics Python Course](https://github.com/Hamed-Ahmadinia/data-analytics-python-course) 2025  [![wakatime](https://wakatime.com/badge/github/Hamed-Ahmadinia/data-analytics-python-course.svg)](https://wakatime.com/badge/github/Hamed-Ahmadinia/data-analytics-python-course) [![DOI](https://zenodo.org/badge/944119282.svg)](https://doi.org/10.5281/zenodo.15254795)
+### 📌 [Data Analytics Python Course](https://github.com/Hamed-Ahmadinia/data-analytics-python-course) 2025 [![DOI](https://zenodo.org/badge/944119282.svg)](https://doi.org/10.5281/zenodo.15254795)
 A specialized course I teach at Metropolia University of Applied Sciences, focusing on Python-based data analytics, including data preprocessing, exploratory data analysis, and machine learning techniques.
 
-### 📌 [Presentation Timer Controller](https://github.com/Hamed-Ahmadinia/presentation-timer-controller) 2025 [![wakatime](https://wakatime.com/badge/github/Hamed-Ahmadinia/presentation-timer-controller.svg)](https://wakatime.com/badge/github/Hamed-Ahmadinia/presentation-timer-controller) [![DOI](https://zenodo.org/badge/944119282.svg)](https://doi.org/10.5281/zenodo.15270560)
+### 📌 [Presentation Timer Controller](https://github.com/Hamed-Ahmadinia/presentation-timer-controller) 2025 [![DOI](https://zenodo.org/badge/944119282.svg)](https://doi.org/10.5281/zenodo.15270560)
 A browser-based, interactive tool for managing live presentations. Built with HTML, CSS, and JavaScript, it allows instructors, researchers, or event organizers to track presentation order, control countdowns, and manage speaker sessions seamlessly. Fully customizable via in-app settings — no installation or backend required.
 
-### 📌 [European Values & Attitudes Research (ESS)](https://github.com/Hamed-Ahmadinia/ESS_Human_Values_Research) 2024 (Private) [![wakatime](https://wakatime.com/badge/github/Hamed-Ahmadinia/ESS_Human_Values_Research.svg)](https://wakatime.com/badge/github/Hamed-Ahmadinia/ESS_Human_Values_Research)
+### 📌 [European Values & Attitudes Research (ESS)](https://github.com/Hamed-Ahmadinia/ESS_Human_Values_Research) 2024 (Private) 
 Rigorous analysis using multilevel statistical modeling to examine values, trust, media engagement, and immigration attitudes among European managers, based on extensive ESS data.
 
-### 📌 [IoT-Based Systems Practice](https://github.com/Hamed-Ahmadinia/IoT-Systems-Practicals-2023) 2023 [![DOI](https://zenodo.org/badge/850335990.svg)](https://doi.org/10.5281/zenodo.15254885)
+### 📌 [IoT-Based Systems Practice](https://github.com/Hamed-Ahmadinia/IoT-Systems-Practicals-2023) 2023 
 Portfolio of key assignments for IoT architecture, network models, data processing, and decision-making strategies in IoT systems.
 
-### 📌 [Applied Data Science MiniProjects](https://github.com/Hamed-Ahmadinia/Applied-Data-Science-MiniProjects) 2023 [![DOI](https://zenodo.org/badge/869425804.svg)](https://doi.org/10.5281/zenodo.15254860)
+### 📌 [Applied Data Science MiniProjects](https://github.com/Hamed-Ahmadinia/Applied-Data-Science-MiniProjects) 2023 
 Hands-on mini-projects focused on data science techniques, exploratory analysis, and visualizations.
 
-### 📌 [Big Data Specialization](https://github.com/Hamed-Ahmadinia/Bigdata-Specialization) [![DOI](https://zenodo.org/badge/425120952.svg)](https://doi.org/10.5281/zenodo.15254849)
+### 📌 [Big Data Specialization](https://github.com/Hamed-Ahmadinia/Bigdata-Specialization) 
 Extensive analytical projects demonstrating proficiency in Python for big data processing and visualization.
 
-### 📌 [Systematic Reviews on Immigrant Health](https://github.com/Hamed-Ahmadinia/Systematic-Reviews-Immigrant-Health_2020_2023) 2020  [![DOI](https://zenodo.org/badge/758016727.svg)](https://doi.org/10.5281/zenodo.15254828)
+### 📌 [Systematic Reviews on Immigrant Health](https://github.com/Hamed-Ahmadinia/Systematic-Reviews-Immigrant-Health_2020_2023) 2020 
 Comprehensive systematic literature reviews exploring the intersection of immigration and health, employing qualitative and quantitative research methodologies.
 
 ---
@@ -82,6 +82,10 @@ Comprehensive systematic literature reviews exploring the intersection of immigr
 - **MSc Business Administration (Finance)** – Azad University, Tehran, Iran  
 - **BSc Accounting (Taxation)** – Kharazmi University, Tehran, Iran
   
+---
+
+## 📈 Code Time since March 1 2025 ( started counting) [![wakatime](https://wakatime.com/badge/user/eff3b53b-fa83-46cd-916a-0ee2875d31b6.svg)](https://wakatime.com/@eff3b53b-fa83-46cd-916a-0ee2875d31b6)
+
 ---
 
 ## 📫 Connect with Me
